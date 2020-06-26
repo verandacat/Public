@@ -20,8 +20,6 @@ if ($_GET['pat'] == "a") {
     include_once('./index_i.php');
 } elseif ($_GET['pat'] == "j") {
     include_once('./index_j.php');
-} elseif ($_GET['pat'] == "l") {
-    include_once('./index_l.php');
 } elseif ($_GET['pat'] == "g") {
     include_once('./index_g.php');
 } else {
