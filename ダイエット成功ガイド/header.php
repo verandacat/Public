@@ -88,9 +88,9 @@ print '<?xml version="1.0" encoding="UTF-8"?>'; ?>
                 <div class="accordion-page-item">
                     <ul class="ham-list">
 
-                        <a href="./page-item/lakubi.php">
+                        <!-- <a href="./page-item/lakubi.php">
                             <li>Lakubi</li>
-                        </a>
+                        </a> -->
 
                         <!-- <a href="./page-item/meta.php">
                 <li>メタバリアEX</li></a> -->
