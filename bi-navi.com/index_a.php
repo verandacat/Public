@@ -13,7 +13,7 @@
 
     <div class="title-wrap">
 
-        <h1 class="left">「もっとスリムになりたい！」<br>「ダイエットを成功させたい！」</span></h1>
+        <h1 class="left">「もっとスリムになりたい！」<br>「スッキリ美人になりたい！」</span></h1>
 
         <h1 class="right">とお悩みの方へ</span></h1>
 
