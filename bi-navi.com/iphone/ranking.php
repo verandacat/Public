@@ -820,7 +820,13 @@
                         <th>ユーザー評価</th>
                     </tr>
                     <tr>
-                        <td><?php echo $regularly; ?>円</td>
+                        <td>
+                            <?php if($i === 4) : ?>
+                            1458円（初回税込）<br>定期：2624円（税別税込）<br>※2回目以降2916円の10％オフで購入可能
+                            <?php else : ?>
+                            <?php echo $regularly; ?>円
+                            <?php endif; ?>
+                        </td>
                         <td><?php echo $amount; ?></td>
                         <td>
                             <?php if ($i === 1) : ?>
