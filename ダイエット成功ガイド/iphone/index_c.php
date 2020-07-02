@@ -127,14 +127,14 @@
                     <th>
                         <p>
                             <a class="link-img" target="_blank"
-                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/bise.php<?php echo "?" . $query2; ?>">
-                                <img src="./img/bise.jpg" alt="" />
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eg.php<?php echo "?" . $query2; ?>">
+                                <img src="./img/eg.jpg" alt="" />
                             </a>
                         </p>
                         <p>
                             <span class="lbg">
                                 <a target="_blank"
-                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/bise.php<?php echo "?" . $query2; ?>">ビセラ</a>
+                                    href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eg.php<?php echo "?" . $query2; ?>">EGタイトLight</a>
                             </span>
                         </p>
                     </th>
@@ -195,7 +195,7 @@
                     </td>
                     <td>
                         <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>短鎖脂肪酸・ラクリス菌・EC-12・ナノ乳酸菌</p>
+                        <p>ボウフウを含む18種の生薬</p>
                     </td>
 
 
@@ -244,7 +244,7 @@
                     </td>
 
                     <td>
-                        <p style="text-align: left">・手ごろな価格で体内フローラサプリを試したい<br>・短鎖脂肪酸をダイレクトに摂りたい</p>
+                        <p style="text-align: left">・脂肪を燃焼させたい<br>・多少高くても安心の医薬品でしっかり痩せたい</p>
                     </td>
 
 
@@ -271,8 +271,8 @@
                     </td>
 
                     <td>
-                        <img class="small" src="./img/n_img/r_check_02.png" alt="" />
-                        <p>3,980円（定期）</p>
+                        <img class="small" src="./img/n_img/r_check_03.png" alt="" />
+                        <p>6,480円</p>
                     </td>
 
 
@@ -299,7 +299,7 @@
 
                     <td>
                         <img class="small" src="./img/n_img/r_check_01.png" alt="" />
-                        <p>初回500円</p>
+                        <p>初回980円<br>（15日分）</p>
                     </td>
 
 
@@ -330,7 +330,7 @@
 
                     <td style="width:27%;">
                         <a target="_blank"
-                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/bise.php<?php echo "?" . $query2; ?>">
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eg.php<?php echo "?" . $query2; ?>">
                             <img src="./img/n_img/btn_site_go_s.png" width="100%">
                         </a>
                     </td>

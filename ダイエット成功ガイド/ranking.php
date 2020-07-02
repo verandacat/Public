@@ -1860,134 +1860,6 @@
 
                         <p>
                             <a target="_blank"
-                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/bise.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
-                                target="_blank">
-                                <span class="f-13">ビセラ</span>
-                            </a>
-                        </p>　
-                    </th>
-                </tr>
-
-                <tr>
-                    <td class="r-img">
-
-                        <a target="_blank"
-                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/bise.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
-                            target="_blank">
-                            <img src="./img/bise.jpg" alt="" />
-                        </a>
-
-                    </td>
-
-                </tr>
-
-                <tr>
-
-                    <td>
-
-                        <ul class="r-list">
-
-                            <li>初回価格500円！SNSでも話題沸騰中！</li>
-
-                            <li>短鎖脂肪酸が体内フローラをしっかりサポート！</li>
-
-                            <li>32種類もの体内フローラサポート菌を1兆個も配合！</li>
-
-                            <li>特殊加工カプセルで、菌が生きたまま腸に届く！</li>
-
-                        </ul>
-
-                    </td>
-
-                </tr>
-
-            </tbody>
-        </table>
-
-
-
-        <div class="r-txtbox">
-
-            <p>
-                「生」菌が1兆個も配合された「BISERA」は、 体内フローラを応援してくれる「短鎖脂肪酸」をダイレクトに配合！ 善玉菌・悪玉菌にアプローチすることで、 体の内側から健康やスタイルケアをサポートします。
-
-            </p>
-
-            <p>
-                ラクリス菌、EC-12菌、ナノ乳酸菌など、32種類の菌が 贅沢に１兆個も配合されており、キレイをしっかりサポート！ 特殊加工カプセルを採用しているので、胃で溶けずにしっかり菌を腸まで届けます。
-            </p>
-
-
-            <a target="_blank"
-                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/bise.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
-                target="_blank">
-                <span class="link_txt">初回500円！<?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
-            </a>
-
-        </div>
-
-        <table class="r-r-table" cellspacing="1">
-            <tbody>
-                <tr>
-                    <th>価格</th>
-                    <th>容量</th>
-                    <th>ユーザー評価</th>
-                </tr>
-                <tr>
-                    <td>500円（初回）3980円（定期）</td>
-                    <td>30粒（30日分）</td>
-                    <td>
-                        <img alt="" src="./img/review_4.gif" />
-                    </td>
-                </tr>
-                <tr>
-                    <th>サプリの種類</th>
-                    <th>
-                        配合成分
-                    </th>
-                    <th>
-                        1日あたりの価格
-                    </th>
-                </tr>
-                <tr>
-                    <td>体内フローラサプリ</td>
-                    <td>短鎖脂肪酸・ラクリス菌・EC-12・ナノ乳酸菌</td>
-                    <td>133円</td>
-                </tr>
-
-            </tbody>
-        </table>
-
-
-        <div class="img-btn">
-            <a target="_blank"
-                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/bise.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
-                target="_blank">
-                <img alt="" src="./img/n_img/btn_site_go_01.png" width="100%">
-            </a>
-        </div>
-
-
-
-
-
-
-        <!--
-                  ★★★★★★★★★★★★★★★★★★★★★★★★★★
-                  #tab3 4位-->
-
-        <table class="r-table" cellspacing="0">
-
-            <tbody>
-
-                <tr>
-                    <th class="r-title" colspan="2">
-                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_04.png" width="100" />
-                        </div>
-
-                        <p>
-                            <a target="_blank"
                                 href="https://xn--eckalq1hua9ak9609eoj6a.com/links/eg.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
                                 target="_blank">
                                 <span class="f-13">EGタイトLight</span>
@@ -2075,7 +1947,7 @@
                     <td>6480円</td>
                     <td>180錠</td>
                     <td>
-                        <img alt="" src="./img/review_35.gif" />
+                        <img alt="" src="./img/review_4.gif" />
                     </td>
                 </tr>
                 <tr>
@@ -2111,9 +1983,11 @@
 
 
 
+
         <!--
-        ★★★★★★★★★★★★★★★★★★★★★★★★★★
-        #tab3 5位-->
+                  ★★★★★★★★★★★★★★★★★★★★★★★★★★
+                  #tab3 4位-->
+
 
         <table class="r-table" cellspacing="0">
 
@@ -2122,7 +1996,7 @@
                 <tr>
                     <th class="r-title" colspan="2">
                         <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
-                            <img src="./img/n_img/badge_ranking_05.png" width="100" />
+                            <img src="./img/n_img/badge_ranking_04.png" width="100" />
                         </div>
 
                         <p>
@@ -2223,6 +2097,126 @@
         <div class="img-btn">
             <a target="_blank"
                 href="https://xn--eckalq1hua9ak9609eoj6a.com/links/slilin.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
+                target="_blank">
+                <img alt="" src="./img/n_img/btn_site_go_01.png" width="100%">
+            </a>
+        </div>
+
+
+
+
+        <!--
+        ★★★★★★★★★★★★★★★★★★★★★★★★★★
+        #tab3 5位-->
+
+        <table class="r-table" cellspacing="0">
+
+            <tbody>
+
+                <tr>
+                    <th class="r-title" colspan="2">
+                        <div class="img-center badge" style="position: absolute; top:10px; left:10px;">
+                            <img src="./img/n_img/badge_ranking_05.png" width="100" />
+                        </div>
+
+                        <p>
+                            <a target="_blank"
+                                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/osaeru.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
+                                target="_blank">
+                                <span class="f-13">オサエル</span>
+                            </a>
+                        </p>　
+                    </th>
+                </tr>
+
+                <tr>
+                    <td class="r-img">
+
+                        <a target="_blank"
+                            href="https://xn--eckalq1hua9ak9609eoj6a.com/links/osaeru.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
+                            target="_blank">
+                            <img src="./img/osaeru.jpg" alt="" />
+                        </a>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <ul class="r-list">
+
+                            <li>食後の血糖値・中性脂肪の上昇をしっかり抑制！</li>
+                            <li>脂肪や糖の吸収を抑える機能性表示食品</li>
+                            <li>初回限定500円で試しやすい♪</li>
+
+                        </ul>
+
+                    </td>
+
+                </tr>
+
+            </tbody>
+        </table>
+
+
+
+        <div class="r-txtbox">
+
+            <p>
+                オサエルは1日1回食前たった2粒で、糖と脂肪にWのアプローチ！
+                注目成分、スーパーフルーツ「ターミナリアべリリカ」が主配合されており、
+                糖の吸収を抑えて血糖値上昇を抑制、脂肪の吸収を抑えて中性脂肪上昇を抑制。
+                保存料・着色料無添加、安心の機能性表示食品！しかも今ダケ初回限定500円♪
+            </p>
+
+
+            <a target="_blank"
+                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/osaeru.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
+                target="_blank">
+                <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
+            </a>
+
+        </div>
+
+        <table class="r-r-table" cellspacing="1">
+            <tbody>
+                <tr>
+                    <th>価格</th>
+                    <th>容量</th>
+                    <th>ユーザー評価</th>
+                </tr>
+                <tr>
+                    <td>価格：500円（初回税別）<br>定期：3980円（税別）</td>
+                    <td>60粒（1ヶ月分）</td>
+                    <td>
+                        <img alt="" src="./img/review_35.gif" />
+                    </td>
+                </tr>
+                <tr>
+                    <th>サプリの種類</th>
+                    <th>
+                        配合成分
+                    </th>
+                    <th>
+                        1日あたりの価格
+                    </th>
+                </tr>
+                <tr>
+                    <td>燃焼・カットサプリ</td>
+                    <td>ターミナリアべリリカ</td>
+                    <td>133円</td>
+                </tr>
+
+            </tbody>
+        </table>
+
+
+        <div class="img-btn">
+            <a target="_blank"
+                href="https://xn--eckalq1hua9ak9609eoj6a.com/links/osaeru.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
                 target="_blank">
                 <img alt="" src="./img/n_img/btn_site_go_01.png" width="100%">
             </a>
