@@ -35,9 +35,7 @@
             </th>
 
             <th style="background-color: #fff">
-                <p style="text-align:center">
-                    <img src="./img/n_img/crown_icon_01.png" width="50" alt="" />
-                </p>
+
                 <p style="text-align:center">
                     <a target="_blank" href="http://xn--hdks4057bh4s.net/links/bise.php<?php echo "?" . $query2; ?>">
                         <img src="./img/n_img/bise.jpg" alt="" />
@@ -55,9 +53,7 @@
 
 
             <th style="background-color: #fff">
-                <p style="text-align:center">
-                    <img src="./img/n_img/crown_icon_02.png" width="50" alt="" />
-                </p>
+
                 <p style="text-align:center">
                     <a target="_blank" href="http://xn--hdks4057bh4s.net/links/eraberu.php<?php echo "?" . $query2; ?>">
                         <img src="./img/eraberu.jpg" alt="" width="130" />
@@ -74,9 +70,7 @@
             </th>
 
             <th style="background-color: #fff">
-                <p style="text-align:center">
-                    <img src="./img/n_img/crown_icon_03.png" width="50" alt="" />
-                </p>
+
                 <p style="text-align:center">
                     <a target="_blank" href="http://xn--hdks4057bh4s.net/links/calg.php<?php echo "?" . $query2; ?>">
                         <img src="./img/calg.jpg" alt="" width="170" />
