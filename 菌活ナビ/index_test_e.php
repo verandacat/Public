@@ -1,13 +1,11 @@
 <?php include_once('header.php'); ?>
 
 
-
 <div id="wrapper">
     <div class="inner">
         <span class="img-center">
             <img src="./img/n_img/top_banner_01_e.png" width="100%" />
         </span>
-
 
         <div>
             <?php get_search_form(); ?>
@@ -22,6 +20,7 @@
 
 
                         <div id="text1">
+
 
                             <p class="main_text_01">「便秘を解消したい！」</p>
                             <p class="main_text_01">「薬で一時的になんとかはしたくない」</p>
@@ -52,20 +51,6 @@
                                 <span style="color:red;font-weight: bold;">
                                     「乳酸菌(善玉菌)が配合されていればなんでも同じ」</span>って安易に選んで失敗したら意味がありません…。<br><br>
 
-                                <!-- <p>乳酸菌には数百～数千もの種類があり、それぞれ動物由来、植物由来、ヒト由来など様々な種類の乳酸菌があります。
-                    <strong>
-                      <span style="color: #e61a1a">より有用性があると言われているのはヒト由来と植物由来の乳酸菌です</span>
-                    </strong>。そして最も重要なのは、
-                  </p>
-                  <br>
-                  <p>
-                    <span style="font-size:20px;">
-                      <span style="color:#3664f7">その乳酸菌はちゃんとしているかどうか？</span>です。</span>
-                  </p>
-                  <br>
-                  <p>とは言ってもドラッグストアやインターネット上で
-                    <span class="mk">探せば星の数ほどあるサプリメントを全て自分で試すわけにはいきませんし</span>、
-                    <span style="color: blue">パッと見てどれを最初に試せばいいのか、どれが一番自分に合うのか調べるなんて難しいですよね</span>。</p> -->
 
                             </div>
 
@@ -104,21 +89,19 @@
                             <p style="text-align:center;">
                                 <img src="./img/n_img/new_arrow.png" />
                             </p>
-
                         </div>
 
+
+
                         <!--比較表START-->
-
-                        <?php include_once('table.php'); ?>
-
+                        <?php include_once('table-lakubi.php'); ?>
                         <!--比較表END-->
 
 
 
 
-                        <!--
-                ランキングSTART
-              -->
+
+                        <!--ランキングSTART-->
 
                         <div class="ranking_all"></div>
 
@@ -126,66 +109,63 @@
                             <img src="./img/n_img/title_ranking_01_e.png" width="100%">
                         </div>
 
-                        <?php include_once('rank.php'); ?>
 
-                        <!--
-                ランキングEND
-              -->
+                        <?php include_once('rank-test.php'); ?>
 
 
+                        <!--ランキングEND-->
 
 
 
-                        <!-- <div>
-                    
-                      <img src="./img/n_img/last_banner.png" alt="" width="100%">
-                      <div class="last_container bg-y">
-                      <div class="last_txt bg-wh border-r">
 
-                            <p>当サイトでご紹介している乳酸菌サプリは、効果はもちろんですが、 
-                              <span style="font-weight: bold;" class="mk">できるかぎり多くのダイエットや便秘に悩む方に試していただきたい</span>という気持ちから、
-                              <span style="color:red;text-decoration: underline;font-weight: bold;">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。
-                            </p> <br>
 
-                              <p>第１位の<span style="font-weight: bold;">LAKUBI（ラクビ）</span>は今なら<span style="color:red; font-weight: bold;">
-                              初回５００円モニター募集中！</span>なんと、<span style="color:red; font-weight: bold;" class="mk">１日わずか１０円</span>
-                              で試すことが出来ちゃいます。</span></p><br>
-                              
-                              <p>このめっちゃお得なキャンペーンは、
-                              <span style="text-decoration: underline;font-weight: bold;">今だけのキャンペーンなのですぐに募集が終了してしまう可能性が高い</span>です。</p><br>
+                        <!--<div>
+                  
+                    <img src="./img/n_img/last_banner.png" alt="" width="100%">
+                    <div class="last_container bg-y">
+                    <div class="last_txt bg-wh border-r">
+
+                           <p>当サイトでご紹介している乳酸菌サプリは、効果はもちろんですが、 
+                            <span style="font-weight: bold;" class="mk">できるかぎり多くのダイエットや便秘に悩む方に試していただきたい</span>という気持ちから、
+                            <span style="color:red;text-decoration: underline;font-weight: bold;">お得に試せるかどうか</span>、という点も重要視して選ばせていただきました。
+                           </p> <br>
+
+                            <p>第１位の<span style="font-weight: bold;">LAKUBI（ラクビ）</span>は今なら<span style="color:red; font-weight: bold;">
+                            初回５００円モニター募集中！</span>なんと、<span style="color:red; font-weight: bold;" class="mk">１日わずか１０円</span>
+                            で試すことが出来ちゃいます。</span></p><br>
                             
-                              
-                              
-                              <p>さらに、<span style="color:red; font-weight: bold;">今だけAmazonギフト券（５００円分）応募券付き！</span>
-                              試してみようとお考えの方は、<span style="color:red; font-weight: bold;" class="mk">
-                                  お得なキャンペーンが終了する前に手に入れてくださいね！</span></p><br>
+                            <p>このめっちゃお得なキャンペーンは、
+                            <span style="text-decoration: underline;font-weight: bold;">今だけのキャンペーンなのですぐに募集が終了してしまう可能性が高い</span>です。</p><br>
+                           
+                            
+                            
+                            <p>さらに、<span style="color:red; font-weight: bold;">今だけAmazonギフト券（５００円分）応募券付き！</span>
+                            試してみようとお考えの方は、<span style="color:red; font-weight: bold;" class="mk">
+                                お得なキャンペーンが終了する前に手に入れてくださいね！</span></p><br>
 
-                              <p style="text-align: center">
-                                <img src="./img/n_img/last_lakubi.png" width="100%">
+                            <p style="text-align: center">
+                              <img src="./img/n_img/last_lakubi.png" width="100%">
 
 
-                              <?php if(isset($_SESSION['switch']) && $_SESSION['switch'] == "on"){ ?>
-                                <a target="_blank" href="http://xn--hdks4057bh4s.net/links/lakubi_on.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>">
-                                      <img alt="" src="./img/n_img/btn_site_go_last.png" width="100%" />
+                            <?php if(isset($_SESSION['switch']) && $_SESSION['switch'] == "on"){ ?>
+                              <a target="_blank" href="http://xn--hdks4057bh4s.net/links/lakubi_on.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>">
+                                     <img alt="" src="./img/n_img/btn_site_go_last.png" width="100%" />
+                                   </a>
+                            <?php }elseif(isset($_SESSION['switch']) && $_SESSION['switch'] == "off"){ ?>
+                              <a target="_blank" href="http://xn--hdks4057bh4s.net/links/lakubi_on.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>">
+                                     <img alt="" src="./img/n_img/btn_site_go_last.png" width="100%" />
                                     </a>
-                              <?php }elseif(isset($_SESSION['switch']) && $_SESSION['switch'] == "off"){ ?>
-                                <a target="_blank" href="http://xn--hdks4057bh4s.net/links/lakubi_on.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>">
-                                      <img alt="" src="./img/n_img/btn_site_go_last.png" width="100%" />
-                                      </a>
-                              <?php }else{ ?>
-                              <a target="_blank" href="http://xn--hdks4057bh4s.net/links/lakubi.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>">
-                                      <img alt="" src="./img/n_img/btn_site_go_last.png" width="100%" />
-                                      </a>
-                              <?php } ?>                              
-                                </p>
+                            <?php }else{ ?>
+                             <a target="_blank" href="http://xn--hdks4057bh4s.net/links/lakubi.php<?php echo "?".$_SERVER['QUERY_STRING']; ?>">
+                                     <img alt="" src="./img/n_img/btn_site_go_last.png" width="100%" />
+                                    </a>
+                            <?php } ?>                              
+                              </p>
 
-                              </div>
-                      </div>
+                            </div>
                     </div>
+                  </div>
 
-                  </div> -->
-
-
-
+              </div>-->
 
                         <?php include_once('footer.php'); ?>
