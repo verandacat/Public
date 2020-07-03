@@ -135,9 +135,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="accordion-page-item">
                     <ul class="ham-list">
 
-                        <!-- <a href="../page-item/lakubi.php">
+                        <a href="../page-item/lakubi.php">
                             <li>Lakubi</li>
-                        </a> -->
+                        </a>
 
                         <!-- <a href="../page-item/meta.php">
                 <li>メタバリアEX</li></a> -->

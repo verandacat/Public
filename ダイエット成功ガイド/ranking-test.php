@@ -3946,9 +3946,9 @@
                         </div>
 
                         <p>
-                            <a target="_blank" href="links/mogi.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
+                            <a target="_blank" href="links/ease.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
                                 target="_blank">
-                                <span class="f-13">もぎたて生スムージー</span>
+                                <span class="f-13">イージースムージーグリーン</span>
                             </a>
                         </p>　
                     </th>
@@ -3957,9 +3957,9 @@
                 <tr>
                     <td class="r-img">
 
-                        <a target="_blank" href="links/mogi.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
+                        <a target="_blank" href="links/ease.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>"
                             target="_blank">
-                            <img src="img/mogi.jpg" alt="">
+                            <img src="img/ease.jpg" alt="">
                         </a>
 
                     </td>
@@ -3972,9 +3972,9 @@
 
                         <ul class="r-list">
 
-                            <li>はるな愛さんも大絶賛の美味しい生スムージー！</li>
-                            <li>328種類以上の酵素活性のある酵素エキス配合！</li>
-                            <li>置き換えダイエットで超簡単カロリーコントロール！</li>
+                            <li>体重、ウエスト、内臓・皮下脂肪を減らすのを助ける！</li>
+                            <li>スムージーの常識が変わる！？機能性関与成分を配合</li>
+                            <li>毎月先着500名様限定！定期初回990円だから試しやすい</li>
 
                         </ul>
 
@@ -3989,12 +3989,13 @@
 
         <div class="r-txtbox">
 
-            <p>もぎたて生スムージーは一時期激太り報道まであった<span class="red bg-y">はるな愛さんも大絶賛</span>の生スムージーです。</p>
-            <p>10種類の果実と11種のビタミンからなる甘酸っぱいさわやかなMIXベリー味は<span class="red">美味しく続けやすい</span>です。</p>
-            <p>美味しいだけじゃなく、コラーゲンや乳酸菌、ビタミン、328種類の酵素配合など栄養も豊富。</p>
-            <p><span class="bold">1食たったの17kcalと置き換えダイエットに最適</span>ですが、ふくらむ成分グルコマンナンサイリウム配合で腹持ちが良いため、
-                <span class="red bg-y"> 「食べすぎ」を防ぎストレスなくカロリーコントロールが出来ちゃいます。</span></p>
-            <p>今なら<span class="red">定期限定初回特別価格1,980円+税・送料無料</span>で始められますので、あなたもはるな愛さんのように美味しくキレイを目指してみませんか。</p>
+            <p>臨床試験実施済み！葛の花由来イソフラボンが肥満気味な方の
+                体重、ウエスト周囲径、内臓脂肪＆皮下脂肪を減らすのを助ける
+                「機能性表示食品」として届出した健康食品！</p>
+            <p>
+                9種の野菜と果実や美容サポート成分、5種のビタミンも配合。
+                1食たったの19.7kcalで朝食に、お菓子代わりに、豆乳やヨーグルト
+                に混ぜてアレンジもOK♪楽しみながらキレイを目指せる！</p>
 
             <a target="_blank" href="links/mogi.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
                 <span class="link_txt"><?php echo date("n"); ?>月の特別キャンペーンページはこちら</span>
@@ -4010,19 +4011,19 @@
                     <th>ユーザー評価</th>
                 </tr>
                 <tr>
-                    <td>3,980円+税</td>
-                    <td>180g</td>
+                    <td>990円（初回税抜）<br>定期：4800円（税別税抜）<br>※2回目以降20％OFF</td>
+                    <td>180g（約30日分）</td>
                     <td><img alt="4.5" src="./img/review_45.gif"></td>
                 </tr>
                 <tr>
                     <th>サプリの種類</th>
                     <th>配合成分 </th>
-                    <th> 1日あたりの価格</th>
+                    <th>1日あたりの価格</th>
                 </tr>
                 <tr>
                     <td>スムージー</td>
-                    <td>グルコマンナンサイリウム、コラーゲン、乳酸菌、328種類の酵素エキス</td>
-                    <td>128円</td>
+                    <td>葛の花由来イソフラボン</td>
+                    <td>160円</td>
                 </tr>
 
             </tbody>
@@ -4032,7 +4033,7 @@
 
 
         <div class="img-btn">
-            <a target="_blank" href="links/mogi.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
+            <a target="_blank" href="links/ease.php<?php echo "?" . $_SERVER['QUERY_STRING']; ?>" target="_blank">
                 <img alt="" src="./img/n_img/btn_site_go_01.png" width="100%">
             </a>
         </div>
